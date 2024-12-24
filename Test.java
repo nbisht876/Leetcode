@@ -67,7 +67,7 @@ class Solution {
         {
             return MIN;
         }
-        //System.out.println(n);
+        System.out.println(n);
         //int fi =(int)(n);
     return (int)(n);
     }
